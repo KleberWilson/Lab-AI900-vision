@@ -1,9 +1,9 @@
 # Lab-AI900-vision
 Lab-AI900-vision
 
-Descrição: Criação de um lab para avaliação dos modelos automaticos de aprendizagem de máquina para reconhecimento facil (Azure Vision Services)
+Description: Creation of a lab to evaluate automatic machine learning models for easy recognition (Azure Vision Services)
 
-Pontos aprendidos neste lab
-- Fizemos a criação do recurso na Azure Machine learning studio
-- Utilização da ferramenta cognitiva vision na plataforma de vision studio
-- análise dos resultados do Json de retorno na plataforma
+Points learned in this lab
+- We created the resource in Azure Machine learning studio
+- Use of the vision cognitive tool on the vision studio platform
+- analysis of Json results returned on the platform
